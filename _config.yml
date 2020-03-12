@@ -1,9 +1,10 @@
 title: Yian(Ann) Wang # your name (or website title) here
 logo: "/images/photo_new.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Becoming the best storyteller in spatial data science!
-  <img src="/images/emoji.JPG?raw=true" style="width:12px;height:12px;"/>
+  Becoming the best storyteller in spatial data science
+  <img src="/images/emoji.JPG?raw=true" style="width:18px;height:18px;"/>
   <br>
   Master of Urban Spatial Analytics, University of Pennsylvania, 2020
+  <img src="/images/emoji2.JPG?raw=true" style="width:18px;height:18px;"/>
   <br><br>
 theme: jekyll-theme-minimal
