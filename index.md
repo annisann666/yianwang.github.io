@@ -17,9 +17,9 @@ The final outcome is pretty impressive with a **MAE of 230000** and an **MAPE of
 
 We use the data set from Louisville open data and focus on scooter trips from March to August. OLS regression models are built here to predict the pickup and return activity respectively.
 <br>
-We project the trips count on census tract and fishnet. **Census tract level** prediction provide a general understanding of the demand across the city. **Fishnet level** provides more details to assist staff target the excess demand or supply areas and re-balance efficiently. 
+We project the trips count on census tract and fishnet. **Census tract** level prediction provide a general understanding of the demand across the city. **Fishnet** level provides more details to assist staff target the excess demand or supply areas and re-balance efficiently. 
 <br>
-To determine whether there is an excess supply or demand, we **subtract** the predicted demand by the predicted supply.
+To determine whether there is an excess supply or demand, we **subtract the predicted demand by the predicted supply**.
 <br><br>
 <img src="/images/scooter.JPG?raw=true"/>
 <br><br>
