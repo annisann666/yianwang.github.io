@@ -1,6 +1,30 @@
-## Nice to meet you!
+## Yian's Portfolio
 
-I am Yian(Ann) Wang and this is my profolio. I am currently looking for a full-time job in GIS, data science and business analytic. Check my [Main Profolio](https://yianwang.github.io/) to see more!
+---
 
-Thanks!
-Yian
+### Data Storytelling
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Data Visualization
+
+- [Project 1 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+- [Project 2 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Data Manipulation
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
