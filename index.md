@@ -8,7 +8,7 @@
 <br>
 In this project, we build an OLS model to predict 700 home sale prices in San Francisco from 2012-2015 based on 9433 known data entries. It successfuly takes spatial autocorrelation into accounts. The final outcome is pretty impressive with a **mean absolute error (MAE) of 230000** and an **absolute percent error (MAPE) of 23%**. R-Square value reaches to nearly 75% which means the model accounts for about 75% of the variance of sale prices.
 <br>
-<img src="images/House_Price.JPG?raw=true"/>
+<img src="/images/houseprice.JPG?raw=true"/>
 
 ---
 [Space-Time Prediction of Scooter Activity in Louisville, KY](https://xinyimsumyee.github.io/html/scooters.html)
