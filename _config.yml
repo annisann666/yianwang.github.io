@@ -2,6 +2,7 @@ title: Yian(Ann) Wang # your name (or website title) here
 logo: "/images/photo_new.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Becoming the best storyteller in spatial data science!
+  <br>
   Master of Urban Spatial Analytics, University of Pennsylvania
   <br><br>
 theme: jekyll-theme-minimal
