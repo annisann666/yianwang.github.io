@@ -4,16 +4,13 @@
 
 ### Data Storytelling
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sale Price Prediction in San Francisco](/html/House Price Prediction.html)
+In this project, we build an OLS model to predict 700 home sale prices in San Francisco from 2012-2015 based on 9433 known data entries. It successfuly takes spatial autocorrelation into accounts. The final outcome is pretty impressive with a mean absolute error (MAE) of 230000 and an absolute percent error (MAPE) of 23%. R-Square value reaches to nearly 75% which means the model accounts for about 75% of the variance of sale prices.
+<img src="images/House_Price.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Space-Time Prediction of Scooter Activity in Louisville, KY](https://xinyimsumyee.github.io/html/scooters.html)
+For more about our app Sco-Porter, here is a [video](https://www.youtube.com/watch?v=xheEpq_Ij4E)!
 
 ---
 
