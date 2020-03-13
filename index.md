@@ -19,7 +19,7 @@ Then we design an app use case for re-balancing staff based on the prediciton re
 <img src="/images/app.JPG?raw=true"/>
 
 ---
-#### [Sale Price Prediction in San Francisco](/code_files/House Price Prediction.html)
+#### [Sale Price Prediction in San Francisco](/files/House Price Prediction.html)
 
 In this project, we build an OLS model to predict 700 home sale prices in San Francisco from 2012-2015 based on 9433 known data entries. It successfuly takes spatial autocorrelation into accounts. 
 <br>
@@ -29,15 +29,17 @@ The final outcome is pretty impressive with a **MAE of 230000** and an **MAPE of
 
 ---
 
-### Data Visualization
+### Spatial Analytics
 
-#### [Data Analysis on Electric Vehicle Usage & Environmental Impacts](http://example.com/)
-<br>
+#### [Data Analysis on Electric Vehicle Usage & Environmental Impacts](/files/Wang,Yian_FinalProject.pdf)
+
 This project detect environmental changes by green land and air quality in U.S. states where has the most rapid and advanced growth in electric vehicle usage.
-<br>
+<br><br>
 <img src="/images/larp743.JPG?raw=true"/>
 
-#### [Visualize crime incidents in Philadelphia](http://example.com/)
+---
+#### [Crime incidents in Philadelphia](/files/MUSA620_Yian Wang.ipynb)
+
 In this project, web scraping by BeautifulSoup are used to get data, and Datashader and Imageio make the animated map to visualize crime incidents in Philadelphia for each hour.
 <br>
 <img src="/images/crimes_name.gif?raw=true"/>
@@ -46,7 +48,7 @@ In this project, web scraping by BeautifulSoup are used to get data, and Datasha
 
 ### Data Manipulation
 
-#### [Big Data Analytics - Assignment 1](/code_files/HW_spark_sql_bfs.ipynb)
+#### [Big Data Analytics - Assignment 1](/files/HW_spark_sql_bfs.ipynb)
 This assignment focuses on hierarchical data stored in dataframes, graph data and traversing relationships among data.
 
 #### [Big Data Analytics - Assignment 2](http://example.com/)
