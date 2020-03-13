@@ -28,18 +28,18 @@ Then we design an app use case for re-balancing staff based on the prediciton re
 <img src="/images/app.JPG?raw=true"/>
 
 ---
-### Spatial Analytics
+### Geospatial Analytics
 
 #### [Data Analysis on Electric Vehicle Usage & Environmental Impacts](/files/Wang,Yian_FinalProject.pdf)
 
-This project detect environmental changes by green land and air quality in U.S. states where has the most rapid and advanced growth in electric vehicle usage.
+This project detect environmental changes by green land and air quality in U.S. states where has the most rapid and advanced growth in electric vehicle usage. Google Earth Engine and ArcPy are main analysis tools.
 <br><br>
 <img src="/images/larp743_project.JPG?raw=true"/>
 
 ---
 #### [Urban Growth VS. Development Suitablity Using Raster Overlay]()
 
-This project is aimed to detect important resources lands threatened by likely urban development in Pennsylvania. Raster calculator, Euclidean Distance, Zonal statistics, Reclassify in ArcGIS are used.
+This project is aimed to identify important resources lands threatened by likely urban development in Pennsylvania. Raster calculator, Euclidean Distance, Zonal statistics, Reclassify in ArcGIS are used.
 <br><br>
 <img src="/images/env_index.JPG?raw=true"/>
 
@@ -51,9 +51,9 @@ This project is aimed to detect important resources lands threatened by likely u
 This assignment focuses on hierarchical data stored in dataframes, graph data and traversing relationships among data.
 
 #### [Web Scraping and Big Data](/files/MUSA620_Yian Wang.ipynb)
-In this project, web scraping is used to get apartments data from Craigslist. Datashader and Imageio visualize crime incidents in Philadelphia for each hour.
+In this project, web scraping is used to get apartments data from Craigslist. Datashader and Imageio visualize crime incidents in Philadelphia.
 <br><br>
-<img src="/images/crimes_name.gif?raw=true" style="width:400px;height:400px;"/>
+<img src="/images/crimes_name.gif?raw=true" style="width:350px;height:350px;"/>
 
 ---
 
