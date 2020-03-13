@@ -37,21 +37,23 @@ This project detect environmental changes by green land and air quality in U.S. 
 <img src="/images/larp743_project.JPG?raw=true"/>
 
 ---
-#### [Crime incidents in Philadelphia](/files/MUSA620_Yian Wang.ipynb)
+#### [Urban Growth VS. Development Suitablity Using Raster Overlay]()
 
-In this project, web scraping by BeautifulSoup are used to get data and we explore the relationship between price, size, and number of bedrooms. Datashader and Imageio make the animated map to visualize crime incidents in Philadelphia for each hour.
+This project is aimed to detect important resources lands threatened by likely urban development in Pennsylvania. Raster calculator, Euclidean Distance, Zonal statistics, Reclassify in ArcGIS are used.
 <br><br>
-<img src="/images/crimes_name.gif?raw=true"/>
+<img src="/images/env_index.JPG?raw=true"/>
 
 ---
 
 ### Data Manipulation
 
-#### [Big Data Analytics - Assignment 1](/files/HW_spark_sql_bfs.ipynb)
+#### [Hierarchical and Graph Data](/files/HW_spark_sql_bfs.ipynb)
 This assignment focuses on hierarchical data stored in dataframes, graph data and traversing relationships among data.
 
-#### [Big Data Analytics - Assignment 2](http://example.com/)
-This assignment uses an EMR cluster to use Spark to manipulate the linkedin dataset as well as the stocks data.
+#### [Web Scraping and Big Data](/files/MUSA620_Yian Wang.ipynb)
+In this project, web scraping is used to get apartments data from Craigslist. Datashader and Imageio visualize crime incidents in Philadelphia for each hour.
+<br><br>
+<img src="/images/crimes_name.gif?raw=true" style="width:400px;height:400px;"/>
 
 ---
 
