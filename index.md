@@ -40,8 +40,8 @@ This project detect environmental changes by green land and air quality in U.S. 
 ---
 #### [Crime incidents in Philadelphia](/files/MUSA620_Yian Wang.ipynb)
 
-In this project, web scraping by BeautifulSoup are used to get data, and Datashader and Imageio make the animated map to visualize crime incidents in Philadelphia for each hour.
-<br>
+In this project, web scraping by BeautifulSoup are used to get data and we explore the relationship between price, size, and number of bedrooms. Datashader and Imageio make the animated map to visualize crime incidents in Philadelphia for each hour.
+<br><br>
 <img src="/images/crimes_name.gif?raw=true"/>
 
 ---
